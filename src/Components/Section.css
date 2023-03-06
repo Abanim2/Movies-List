@@ -1,0 +1,14 @@
+.section{
+    background-color: rgba(128, 128, 128, 0.482);
+    border: 2px solid gray;
+    padding: 2px;
+    margin: 5px;
+    font-weight: bold;
+    text-align: start;
+    width: 22%;
+}
+
+.section img {
+    height: 220px;
+    width: 100%;
+}
